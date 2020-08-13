@@ -1,14 +1,12 @@
-/*Reglas 
-Selectores 
-Declaraciones 
-propiedades 
-Valores*/
-
-header {
-  background: pink;
+body {
+  font-family: "Source Sans Pro", sans-serif;
 }
-/*Selector de etiqueta Header - Section - article - nav*/
-/*Selector desendiente Elementos hijos de un elemnto body header div nav ol li a*/
 
-/*selector de clase sera un puntito*/
-/*. y nombre de clase*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Fjalla One", sans-serif;
+}
